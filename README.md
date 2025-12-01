@@ -66,29 +66,9 @@ DGCA compliance levels still low (only ~19% compliant).
 
 Market dominated by top 10 companies contributing majority sales.
 
-📌 How to Use This Project
-
-Clone or download the repository
-
-git clone https://github.com/yourusername/drone-sales-dashboard.git
-
-
-Open the .twbx file in Tableau Public / Desktop
-
-Explore:
-
-Filters
-
-Company insights
-
-Category-wise trends
-
-Model-wise distributions
-
 📬 Contact
 
 If you want the Tableau Dashboard online link, DM or email:
 
-📧 your-12prasad08@gmail.com
+📧12prasad08@gmail.com
 
-🔗 LinkedIn: your-link
