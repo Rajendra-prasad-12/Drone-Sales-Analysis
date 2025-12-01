@@ -9,9 +9,13 @@ This project analyzes drone sales trends, category-wise performance, company-wis
 
 
 📈 Dashboard Preview
+
 🔹 Main Dashboard
+
 🔹 Category & Company Insights
+
 🧩 Dashboard Features
+
 1️⃣ Drone Sales Summary (2021–2025)
 
 Total drones sold: 34,700
