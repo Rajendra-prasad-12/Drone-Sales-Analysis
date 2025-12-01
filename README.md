@@ -3,8 +3,9 @@
 A fully interactive Tableau analytics dashboard built using DGCA-RPA sales datasets.
 This project analyzes drone sales trends, category-wise performance, company-wise sales, RPA model distribution, and DGCA compliance insights across 2021–2025.
 
-<img width="1176" height="775" alt="Screenshot 2025-12-01 075222" src="https://github.com/user-attachments/assets/6d8a636a-8598-470a-9017-7c1e2c433b54" />
 <img width="1200" height="796" alt="Screenshot 2025-12-01 074948" src="https://github.com/user-attachments/assets/e1215241-74b3-427d-b9b2-a95de02fdaf4" />
+<img width="1176" height="775" alt="Screenshot 2025-12-01 075222" src="https://github.com/user-attachments/assets/6d8a636a-8598-470a-9017-7c1e2c433b54" />
+
 
 
 📈 Dashboard Preview
